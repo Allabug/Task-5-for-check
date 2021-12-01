@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TheCATapi</string>
+    <string name="results_could_not_loaded">Results could not loaded</string>
+    <string name="button_retry">Retry</string>
+    <string name="result_could_not_be_loaded">Result could not be loaded</string>
+    <string name="retry_button_text">Retry</string>
+    <string name="description_photo_of_cat">This is a photo of a cat</string>
+    <string name="no_name">No name</string>
+    <string name="no_description">No description</string>
+    <string name="cat_name">Cat name:</string>
+    <string name="description">Description:</string>
+    <string name="error_save">Error save</string>
+    <string name="saved_to_gallery">Saved to Gallery</string>
+    <string name="save_photo_to_gallery">Save photo to gallery</string>
+    <string name="photo_of_a_cat">photo of a cat</string>
+    <integer name="card_flip_duration_full">1000</integer>
+    <integer name="card_flip_duration_half">500</integer>
+</resources>
